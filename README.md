@@ -240,7 +240,7 @@ We'll be using these files in the test suite, so don't rename them.
 
 Add this code to your `Gemfile`
 
-```ruby
+```ruby 
 source "https://rubygems.org"
 gem "rspec"
 gem "sinatra"
@@ -334,3 +334,4 @@ returns false. However...
 
 [require]: http://apidock.com/ruby/Kernel/require
 [require_relative]: http://apidock.com/ruby/Kernel/require_relative
+ 
