@@ -240,7 +240,7 @@ We'll be using these files in the test suite, so don't rename them.
 
 Add this code to your `Gemfile`
 
-```ruby 
+```ruby
 source "https://rubygems.org"
 gem "rspec"
 gem "sinatra"
@@ -322,7 +322,7 @@ returns false. However...
 - [require_relative][require_relative] takes a relative path that is relative to
   the file in which the require statement is called (so it's relative to the
   file being run, not to the directory from which the code is being called).
-  
+
   *Top Tip: Use SSH syntax for the AwesomePrint Gem.*
 
 ## Resources
